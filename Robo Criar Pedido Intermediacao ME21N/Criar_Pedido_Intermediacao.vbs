@@ -54,3 +54,4 @@ session.findById("wnd[0]").sendVKey 0
 'session.findById("wnd[0]").sendVKey 0
 'session.findById("wnd[0]").sendVKey 0
 'session.findById("wnd[0]/tbar[0]/btn[11]").press
+'TESTE DE ALTERAÇÃO PARA PULL REQUEST
