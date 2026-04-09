@@ -1,2 +1,4 @@
 Incluir tipo de imposto X2
 Eliminar o campo Entrada de Mercadoria
+
+TESTE PARA PULL REQUEST
